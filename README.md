@@ -55,19 +55,11 @@
   ```
 
 - datasets
-
   We provide the preprocessed  Boreas dataset in
-
   https://drive.google.com/file/d/1zWF8uSmnDgzYczuuoK-w-zF_AnVV7o95/view?usp=share_link
-
   After downloading, change the two arguments in tools/options.py, --dataset_folder and --image_path, as where you store your Boreas dataset.
 
 - training
-
   You can run train.py to start training.
   You can run evaluate.py to start evaluating, where you need to configure the model weight path.
 
-- training
-
-  You can run train.py to start training.
-  You can run evaluate.py to start evaluating, where you need to configure the model weight path.
